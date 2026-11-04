@@ -1,0 +1,19 @@
+# Visual Studio temporary and build files
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.user
+.vs/
+x64/
+Debug/
+Release/
+*/x64/
+*/Debug/
+*/Release/
+
+# Word reports (keep local only)
+*.docx
